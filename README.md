@@ -11,8 +11,8 @@ Bonjour, afin de pouvoir accéder au test (App et API), suivre les instructions 
 
 - Ouvrir http://localhost/App
 - Se connecter avec le user :
- identifnant : max
- mot de passe : 123
+- identifnant : max
+- mot de passe : 123
  
  API prend en charge GET, POST, PUT, DELETE
  
