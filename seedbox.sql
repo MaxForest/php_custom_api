@@ -18,11 +18,11 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données : `seedbox`
+-- Base de données : `simple_db`
 --
-DROP DATABASE IF EXISTS `seedbox`;
+DROP DATABASE IF EXISTS `simple_db`;
 
-CREATE DATABASE `seedbox`;
+CREATE DATABASE `simple_db`;
 
 USE `seedbox`;
 -- --------------------------------------------------------
