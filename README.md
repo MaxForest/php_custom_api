@@ -1,4 +1,4 @@
-# Test Seedbox
+# PHP Custom API
 
 Bonjour, afin de pouvoir accéder au test (App et API), suivre les instructions suivantes :
 
