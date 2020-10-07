@@ -11,7 +11,7 @@
     define("CONST_DB_HOST", "localhost");
     define("CONST_DB_USERNAME", "root");
     define("CONST_DB_PASSWORD", "");
-    define("CONST_DB", "seedbox");
+    define("CONST_DB", "simple_db");
 
     define("CONST_SECRETKEY", "lemessagesecret");
     define("CONST_CIPHER", "AES-128-CBC");
